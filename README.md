@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Yorman Maya
 
-<!--
-**yorman1802/yorman1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador de Integraciones y Backend Developer  
+Apasionado por construir soluciones que conectan sistemas, automatizan procesos y generan impacto real.
 
-Here are some ideas to get you started:
+### 💡 Tecnologías principales:
+Laravel | Python | Node.js | Java | MySQL | PostgreSQL | AWS | Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Lo que me motiva:
+- Integraciones complejas y APIs bien diseñadas  
+- Arquitectura limpia (SOLID, DDD)  
+- Automatización de procesos repetitivos  
+- Colaborar con equipos para que todos crezcamos juntos
+
+📫 **Contáctame:** yormanmaya@gmail.com
+🌐 **LinkedIn:** [Yorman Maya](https://www.linkedin.com/in/yorman-david-maya-osorio-a07765276/)
